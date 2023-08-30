@@ -1,5 +1,6 @@
 # Swing-sortout
-To sort out the output from SEC-SAXS experiment collected on Swing beamline at Soleil synchrotron  
+To sort out the output from SEC-SAXS experiment collected on Swing beamline at Soleil synchrotron.
+Usually, Foxtrot save all files in the same folder, this script allows you to sort the files into the a designated folder.
 ## Goal 
 For Users of the Swing Beamline at Soleil synchrotron. 
 Foxtrot generate all files in a single directories where you find buffer frames, unsubtracted elution frames, subtracted elution frames, and average frames.
