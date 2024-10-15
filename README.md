@@ -23,8 +23,8 @@ Place the script in the directory above folder you want to organize.
  
   - Parent_Directory/ 
   - Swing-sortout.py
-      - Pc_sec_SaxsCurves/
-                 - Your files
+       - Pc_sec_SaxsCurves/
+                  - Your files
 
 ## Running the Script:
 
